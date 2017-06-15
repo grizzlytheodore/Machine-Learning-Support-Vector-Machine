@@ -3,3 +3,8 @@
 # Computer-Vision-Streo
 # Computer-Vision-Optical_Flow
 # Computer-Vision-Recognition-using-deep-learning
+# simple-chatter-bot
+# Inheritance-polymorphism
+# Machine-learning-logistic-regression
+# Machine-Learning-neural-networks-deep-learning
+# Machine-Learning-Support-Vector-Machine
